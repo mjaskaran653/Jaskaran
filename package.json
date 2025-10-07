@@ -1,7 +1,7 @@
 {
-  "name": "Jaskaran",
+  "name": "doctorathome",
   "version": "1.0.0",
-  "description": "Simple Node.js Web App for Azure",
+  "description": "DoctorAtHome Node.js Web App for Azure",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
